@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/calliopeai/astrolift-cli/releases/download/v0.1.2/astro-windows-amd64.zip",
+            "bin": [
+                "astro.exe"
+            ],
+            "hash": "b59598d7e113e9b762eab0269564ebc089c0a1e56fe866edee143249e1e2c2e5"
+        },
+        "arm64": {
+            "url": "https://github.com/calliopeai/astrolift-cli/releases/download/v0.1.2/astro-windows-arm64.zip",
+            "bin": [
+                "astro.exe"
+            ],
+            "hash": "d8a091a110e40104c8206576989cd219dfe880e7e34168e17a74acc1902c082b"
+        }
+    },
+    "homepage": "https://astrolift.app",
+    "license": "MIT",
+    "description": "Astrolift CLI — control plane for multi-cloud Kubernetes deployments"
+}
