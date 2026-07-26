@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/calliopeai/astrolift-cli/releases/download/v0.1.2/astro-windows-amd64.zip",
+            "url": "https://github.com/calliopeai/astrolift-cli/releases/download/v0.1.3/astro-windows-amd64.zip",
             "bin": [
                 "astro.exe"
             ],
-            "hash": "b59598d7e113e9b762eab0269564ebc089c0a1e56fe866edee143249e1e2c2e5"
+            "hash": "b0b4ae5e5d1f437bf4e3c705eab2e7af3e5f2efc18b5a30a4ef4c1d3e03fb5c7"
         },
         "arm64": {
-            "url": "https://github.com/calliopeai/astrolift-cli/releases/download/v0.1.2/astro-windows-arm64.zip",
+            "url": "https://github.com/calliopeai/astrolift-cli/releases/download/v0.1.3/astro-windows-arm64.zip",
             "bin": [
                 "astro.exe"
             ],
-            "hash": "d8a091a110e40104c8206576989cd219dfe880e7e34168e17a74acc1902c082b"
+            "hash": "d6d4a6e9f640ce76764148aecfa9106c082e7b8696847d1354bbbbf7ac1c0511"
         }
     },
     "homepage": "https://astrolift.app",
